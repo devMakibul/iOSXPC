@@ -125,9 +125,76 @@ ion-icon {
   
 
 .green-dark {
-    background-color: #00b300;
-    color: #ffffff;
-}
+    --site-title: #12512e; 
+    --top-nav-bg: #f5fff3;
+    --home-top-icon: #414942;
+    --hero-title: #2e6a44;
+    --hero-desc: #191c19;
+    --hero-num: #4f6353;
+    --hero-info: #52525B;
+    --info-divider: #aaaca7;
+  
+    --search-input: #191c19;
+    --col-title: #2e6a44;
+    --sort-text: #191c19;
+    --sort-icon: #191c19;
+    --sort-bg: #d5e7d7;
+    --col-name: #191c19;
+    --col-name-letter: rgba(0,0,0,.04);
+    --col-btn-bg: #d2e8d4;
+    --col-btn-border: #aaaca7;
+    --wall-num: #4f6353;
+    --wall-num-bg: #b1f1c1;
+    --bottom-nav-bg: #f5fff3;
+    --bottom-nav-text: #00210e;
+    --bottom-nav-icon: var(--home-top-icon);
+    --active-icon-bg: #b1f1c1;
+  
+    --popup-title: #343435;
+    --popup-title-bg: rgba(0,0,0,.1);
+    --popup-btn-txt: #343435;
+    --popup-bg: #f5fff3;
+    --popup-btn-hover-bg: rgba(0,0,0,.05);
+    --popup-btn-divider: #aaaca7;
+  
+    --set-option-title: #191c19;
+    --set-option: #191c19;
+    --set-option-bg: #f0f1ec;
+    --set-option-hover-bg: #d2e8d4;
+    --set-preview: #343435;
+    --set-icon: var(--home-top-icon);
+    --scheme-pre-border: #e6e6e6;
+    --scheme-selected-border: #72e57c;
+    --scheme-border: #e6e6e6;
+    --schemes-border-inline: #f0f1ec;
+  
+    --exit-icon: #00210e;
+    --exit-text: #00210e;
+    --exit-bg: #b1f1c1;
+    --last-sync-text: #08102b;
+  
+    --nav-col-title: #191c19;
+    --nav-icon-hover-bg: #E9F2E7;
+    --thumb-bg: #d2e8d4;
+    --fav-icon: var(--home-top-icon);
+    --fav-icon-bg: #b1f1c1;
+    --popup-msg-text: #b1f1c1;
+    --popup-msg-bg: #191c19;
+  
+    --close-icon-bg: #b1f1c1;
+    --popup-info-text: #191c19;
+    --popup-info-bg: #F5FFF3;
+    --popup-hide-icon-bg: #b1f1c1;
+    --popup-info-icon: var(--home-top-icon);
+    --popup-info-btn-icon: #191c19;
+    --popup-info-btn-bg: var(--sort-bg);
+    --popup-info-btn-txt: #191c19;
+  
+    --sync-text: #191c19;
+    --sync-bg: var(--popup-bg);
+    --sync-bar: #414942;
+    --sync-bar-border: #72e57c;
+  }
 
 .orange {
     background-color: #ffa500;
