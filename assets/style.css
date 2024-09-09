@@ -906,7 +906,7 @@ body:has(.wallpaper[style*="display: block"]) .fav-no-results-found {
     height: 100%;
     position: relative;
     overflow: hidden;
-    animation: scalePopup 0.3s ease forwards;
+    animation: scalePopup 1s ease forwards;
 }
 
 .loading-wall {
